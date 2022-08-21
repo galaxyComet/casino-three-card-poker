@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 2334644906374924793a9eaf1f90470b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BuildingA
+    100002: DestructableJunk
+    100004: Gem
+    100006: Ground
+    100008: Magnet
+    100010: //RootNode
+    100012: Ramp
+    100014: RoadBlockHigh
+    100016: RoadBlockMid
+    100018: Shield
+    100020: SpikeBase
+    100022: TunnelFull
+    100024: TunnelSingle
+    100026: UpperArea
+    100028: Arch
+    100030: Arch 1
+    100032: Border
+    100034: Obstacles:Gears
+    100036: rimthingy
+    100038: SpickLeft
+    100040: SpickMiddle
+    100042: SpickRight
+    100044: ParticleA
+    100046: ParticleB
+    100048: ParticleC
+    100050: ParticleD
+    100052: ParticleE
+    100054: ParticleF
+    100056: Projectile
+    100058: Arch 2
+    100060: rimthingy 1
+    100062: TunnelExtention
+    400000: BuildingA
+    400002: DestructableJunk
+    400004: Gem
+    400006: Ground
+    400008: Magnet
+    400010: //RootNode
+    400012: Ramp
+    400014: RoadBlockHigh
+    400016: RoadBlockMid
+    400018: Shield
+    400020: SpikeBase
+    400022: TunnelFull
+    400024: TunnelSingle
+    400026: UpperArea
+    400028: Arch
+    400030: Arch 1
+    400032: Border
+    400034: Obstacles:Gears
+    400036: rimthingy
+    400038: SpickLeft
+    400040: SpickMiddle
+    400042: SpickRight
+    400044: ParticleA
+    400046: ParticleB
+    400048: ParticleC
+    400050: ParticleD
+    400052: ParticleE
+    400054: ParticleF
+    400056: Projectile
+    400058: Arch 2
+    400060: rimthingy 1
+    400062: TunnelExtention
+    2300000: BuildingA
+    2300002: DestructableJunk
+    2300004: Gem
+    2300006: Ground
+    2300008: Magnet
+    2300010: Ramp
+    2300012: RoadBlockHigh
+    2300014: RoadBlockMid
+    2300016: Shield
+    2300018: SpikeBase
+    2300020: TunnelFull
+    2300022: TunnelSingle
+    2300024: UpperArea
+    2300026: Arch
+    2300028: Arch 1
+    2300030: Border
+    2300032: Obstacles:Gears
+    2300034: rimthingy
+    2300036: SpickLeft
+    2300038: SpickMiddle
+    2300040: SpickRight
+    2300042: ParticleA
+    2300044: ParticleB
+    2300046: ParticleC
+    2300048: ParticleD
+    2300050: ParticleE
+    2300052: ParticleF
+    2300054: Projectile
+    2300056: Arch 2
+    2300058: rimthingy 1
+    2300060: TunnelExtention
+    3300000: BuildingA
+    3300002: DestructableJunk
+    3300004: Gem
+    3300006: Ground
+    3300008: Magnet
+    3300010: Ramp
+    3300012: RoadBlockHigh
+    3300014: RoadBlockMid
+    3300016: Shield
+    3300018: SpikeBase
+    3300020: TunnelFull
+    3300022: TunnelSingle
+    3300024: UpperArea
+    3300026: Arch
+    3300028: Arch 1
+    3300030: Border
+    3300032: Obstacles:Gears
+    3300034: rimthingy
+    3300036: SpickLeft
+    3300038: SpickMiddle
+    3300040: SpickRight
+    3300042: ParticleA
+    3300044: ParticleB
+    3300046: ParticleC
+    3300048: ParticleD
+    3300050: ParticleE
+    3300052: ParticleF
+    3300054: Projectile
+    3300056: Arch 2
+    3300058: rimthingy 1
+    3300060: TunnelExtention
+    4300000: DestructableJunk
+    4300002: SpikeBase
+    4300004: TunnelSingle
+    4300006: TunnelFull
+    4300008: BuildingA
+    4300010: Ramp
+    4300012: UpperArea
+    4300014: RoadBlockMid
+    4300016: RoadBlockHigh
+    4300018: Magnet
+    4300020: Gem
+    4300022: Shield
+    4300024: Ground
+    4300026: SpickRight
+    4300028: SpickMiddle
+    4300030: SpickLeft
+    4300032: Border
+    4300034: Arch
+    4300036: Obstacles:Gears
+    4300038: Arch
+    4300040: rimthingy
+    4300042: Projectile
+    4300044: ParticleF
+    4300046: ParticleE
+    4300048: ParticleD
+    4300050: ParticleC
+    4300052: ParticleB
+    4300054: ParticleA
+    4300056: TunnelExtention
+    4300058: Arch
+    4300060: rimthingy
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
